@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#minecraft:is_overworld",
+  "features": "just_end_it:genshin_impact_ore_placed",
+  "step": "underground_ores"
+}

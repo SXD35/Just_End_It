@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "ingredient": {
+    "item": "just_end_it:genshin_impact_rough"
+  },
+  "result": "just_end_it:genshin_impact_ingot"
+}

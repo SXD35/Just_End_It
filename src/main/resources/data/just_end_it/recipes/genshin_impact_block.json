@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "just_end_it:genshin_impact_ingot"
+    }
+  },
+  "result": {
+    "item": "just_end_it:genshin_impact_block"
+  }
+}

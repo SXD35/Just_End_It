@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "just_end_it:item/genshin_impact_sword"
+  }
+}

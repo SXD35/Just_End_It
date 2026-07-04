@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "just_end_it:block/genshin_impact_block"
+  }
+}
